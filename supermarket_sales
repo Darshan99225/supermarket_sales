@@ -1,0 +1,51 @@
+Here’s a structured task using the **Superstore Sales dataset**:
+
+---
+
+### **Task: Comprehensive Sales Analysis**
+
+#### **1. Data Exploration**
+- Load the dataset and inspect the structure (columns, data types, and missing values).
+- Summarize key statistics for numerical columns (e.g., sales, profit, discount).
+
+#### **2. Data Cleaning**
+- Handle missing values, if any, appropriately (e.g., fill, drop).
+- Check for duplicates and remove them.
+- Standardize data formats (e.g., date column parsing, category standardization).
+
+#### **3. Sales Performance Analysis**
+- Calculate total sales, profit, and average discount by:
+  - **Region**
+  - **Category**
+  - **Sub-Category**
+- Identify the top 10 and bottom 10 products based on profit.
+
+#### **4. Trend Analysis**
+- Create a time-series analysis of sales:
+  - Plot monthly or yearly sales and profit trends.
+  - Highlight periods of high or low performance.
+- Identify any seasonality in sales (e.g., spikes in specific months).
+
+#### **5. Customer Behavior Analysis**
+- Determine the customer segments contributing the most to sales.
+- Analyze the impact of discounts on sales and profit (e.g., does higher discount lead to higher sales but lower profit?).
+
+#### **6. Visualization**
+- Use visualizations to communicate insights effectively:
+  - Bar charts for sales and profit by category.
+  - Line plots for time-series trends.
+  - Heatmaps for regional sales performance.
+
+#### **7. Insights and Recommendations**
+- Summarize your findings.
+- Provide actionable recommendations for improving sales and profitability, e.g.:
+  - Focus on high-profit regions or categories.
+  - Reassess discounts for low-performing products.
+
+#### **8. Advanced (Optional)**
+- Build a simple regression model to predict future sales based on past trends.
+- Use clustering techniques to segment customers or regions.
+
+---
+
+Let me know if you'd like a code template or further guidance on any part of this task!
